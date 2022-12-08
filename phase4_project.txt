@@ -1,0 +1,12 @@
+
+Requirements of the projects --
+
+App that allows users to provide test to their customers, review those tests & display corresponding results
+
+Basically the project is divided into quiz,review & result
+
+1)Quiz section = accepts the questions in JSON format
+2)“Review and display result” section = allows users to declare the results immediately. You can simply call another JSON with the answers in it and evaluate and 
+                                      display the results immediately
+
+
